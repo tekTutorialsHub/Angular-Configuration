@@ -1,0 +1,11 @@
+{
+    "env": {
+        "name":"Dev"
+    },
+     
+    "apiServer" : {
+        "link1" :"http://amazon.com",
+        "link2" :"http://ebay.com"
+    }
+}
+
